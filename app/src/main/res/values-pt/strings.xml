@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Atividade 1</string>
+    <string name="string_at1">Atividade 1</string>
+    <string name="string_at2">Atividade 2</string>
+    <string name="button_go">Ir</string>
+    <string name="button_back">Fechar</string>
+</resources>

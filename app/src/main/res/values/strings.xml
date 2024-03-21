@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Activity 1</string>
+    <string name="string_at1">Activity 1</string>
+    <string name="string_at2">Activity 2</string>
+    <string name="button_go">Go</string>
+    <string name="button_back">Close</string>
+</resources>
